@@ -7,7 +7,7 @@ function home() {
           <meta name="description" content="">
           <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
           <meta name="generator" content="Hugo 0.88.1"> */}
-          <title>My portfolio</title>
+          <title>Meu portfólio</title>
           <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"></link>
           <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/"></link>
       
