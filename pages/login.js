@@ -33,7 +33,7 @@ function login() {
                             
 
                             <div class="center">
-                                <button class="lgnBtn" action="./login">
+                                <button class="lgnBtn" action="/login">
                                     ENTRAR
                                 </button>
                             </div>
