@@ -48,7 +48,7 @@ function home() {
           <div class="container">
             <a href="#" class="navbar-brand d-flex align-items-center">
               
-              <strong class="text-2xl">Portfolio</strong>
+              <strong class="text-2xl">Portfólio</strong>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -62,7 +62,7 @@ function home() {
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-              <h1 class="fw-light">Bem-vindo ao meu Portfolio</h1>
+              <h1 class="fw-light">Bem-vindo ao meu Portfólio</h1>
               <p class="lead text-muted">
                 Aqui você encontrará um pouco do meu trabalho. 
               </p>
