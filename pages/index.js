@@ -1,6 +1,6 @@
 function home() {
     return( 
-     <html lang="en">
+     <html lang="en" class="overflow-x-hidden">
         <head>
           {/* <meta charset="utf-8">
           <meta name="abrirport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@ function home() {
       
           
         </head>
-        <body>
+        <body >
           
       <header>
         <div class="collapse bg-dark" id="navbarHeader">
@@ -76,7 +76,7 @@ function home() {
             <a class="projectImg bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./login">
               
             </a>
-            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
+            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./ladyKaty">
               
             </a>
             <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
