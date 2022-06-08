@@ -28,7 +28,7 @@ export default function roupa() {
         </div>
         
       </header>
-      <body >
+      <body class="overflow-x-hidden">
         <div class="fPh w-screen flex justify-center ">
           <img id="pht1"class="masc border-black  border-solid    h-1/5  hover:bg-white hover:brightness-90 hover:cursor-pointer" src="https://previews.dropbox.com/p/thumb/ABjCUtc4k_8OpOZk1DsmmqzpkXJ_RLr3OJWkrqfGzD9yyKaBUyEDZH11MRpEM_b27X96bI-a7CF5AzAvQKDzXSwGQ6h-AxU0J2MYprj4_4YU-6HY7ap3K0DqZePp8uH6o1DwxrGcWQeO1JlFL8CYPKnxS8bcXU2q15QXGPzSXrSto1ZUmmIkAArhS1n76SojXrSwtstlc3GtBNal7bTODSofsCnPsPpMXRCj5f67Vw2SpycG9YNsYQ0_Ga6nbX1GQC_ASHApPRPGa1Hh4ctMFnhl53qRH1rHMzMIcMRT3MdfnPfJtEE6ywnN_4jfFGZ13Nhgg5dzkvoVhtl__te_VaIKfm8rtWbv_BmcCZN5b4ROs06ix5i8es87cKDlOVBFgb0/p.jpeg"></img>
         
