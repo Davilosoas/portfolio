@@ -4,7 +4,7 @@ function login() {
             <body class="lgnBody overflow-hidden "> 
                 <main class="lgnMain bg-cyan-500  divide-transparent">
                     <form action="" method="post">
-                            <h1 class="lgnH1 text-5xl font-bold mt-10 text-white">
+                            <h1 class="lgnH1 cursor-default text-5xl font-bold mt-10 text-white">
                                 Bem-vindo
                             </h1>
 
@@ -33,16 +33,16 @@ function login() {
                             
 
                             <div class="center">
-                                <a  disabled class="lgnBtn bg-cyan-500 rounded text-white shadow-inner cursor-pointer">
+                                <a  disabled class="lgnBtn bg-cyan-500 rounded text-white shadow-inner cursor-pointer hover:bg-cyan-400">
                                     ENTRAR
                                 </a>
                             </div>
                             
                             <section class="links">
-                                <a href="/" class="linkRgst ">
+                                <a href="/" class="linkRgst font-bold text-white">
                                     Não tem uma conta?
                                 </a>
-                                <a href="/" class="linkPsw">
+                                <a href="/" class="linkPsw font-bold text-white">
                                     esqueceu sua senha?
                                 </a>
                             </section>
