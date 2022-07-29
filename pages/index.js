@@ -67,6 +67,8 @@ function home() {
                 Aqui você encontrará um pouco do meu trabalho. 
               </p>
               
+                <input id ="test" placeholder="teste"></input>
+                <button  onClick={console.log(document.getElementById('test').value)}>teste</button>
             </div>
           </div>
         </section>
